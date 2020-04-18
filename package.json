@@ -1,0 +1,24 @@
+{
+  "name": "Hot_Resturaunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZGchip/Hot_Resturaunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AZGchip/Hot_Resturaunt/issues"
+  },
+  "homepage": "https://github.com/AZGchip/Hot_Resturaunt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
